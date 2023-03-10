@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @UnrulyMyth
 - 👀 I’m interested in software development with Python and varying levels of interest in other languages.
-- 🌱 I’m currently learning advanced Python.
 - 💞️ I’m looking to collaborate on whatever I find that interests me.
-- 📫 How to reach me ...
 
 <!---
 UnrulyMyth/UnrulyMyth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
